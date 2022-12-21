@@ -1,3 +1,10 @@
+"""
+Author: Han Nguyen
+Email: hannguyendev@gmail.com
+twilio_sms.py -- A Python script to send SMS messages via Twilio API
+Created on: December 15, 2022
+"""
+
 import os
 import argparse
 from twilio.rest import Client
